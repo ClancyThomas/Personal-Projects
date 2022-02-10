@@ -5,8 +5,8 @@
         <td>Paint Calculator for a Home
     <tr>
     <tr>
-        <th>Project Date
-        <td>April 2021
+        <th>Project Start Date
+        <td>February 2021
     <tr>
     <tr>
         <th>Project Description
@@ -19,4 +19,8 @@
     <tr>
         <th>Link to Project
         <td>https://github.com/ClancyThomas/Personal-Projects/blob/main/CppProjects/PaintCalculator.cpp
+    <tr>
+    <tr>
+        <th>Project Status
+        <td>Project Completed
     <tr>
