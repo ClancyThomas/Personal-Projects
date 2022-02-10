@@ -24,3 +24,31 @@
         <th>Project Status
         <td>Completed
     <tr>
+</table>
+
+<table>
+    <tr>
+        <th>Project Name
+        <td>Money Simulation
+    <tr>
+    <tr>
+        <th>Project Start Date
+        <td>January 2021
+    <tr>
+    <tr>
+        <th>Project Description
+        <td>Program creates bank accounts for an amount of people that the user specifies, and then it does a simulation of who ends up with all the money after people randomly meet each other and give a random amount of money based on who wins a coin flip. The user enters how many simulations the program will perform. 
+    <tr>
+    <tr>
+        <th>Skills/Topics Used
+        <td>Classes, Encapsulation, Vectors 
+    <tr>
+    <tr>
+        <th>Link to Project
+        <td>
+    <tr>
+    <tr>
+        <th>Project Status
+        <td>Completed
+    <tr>
+</table>
