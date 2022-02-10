@@ -22,5 +22,5 @@
     <tr>
     <tr>
         <th>Project Status
-        <td>Project Completed
+        <td>Completed
     <tr>
