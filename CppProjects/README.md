@@ -1,5 +1,11 @@
 C++ Personal Projects
 <table>
-    <tr>Project Name<tr>
-    <tr>Project Description<tr>
-    <tr>Skills/Topics Used<tr>
+    <tr>
+        <th>Project Name<th>
+    <tr>
+    <tr>
+        <th>Project Description
+    <tr>
+    <tr>
+        <th>Skills/Topics Used<th>
+    <tr>
