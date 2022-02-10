@@ -14,4 +14,5 @@
     <tr>
     <tr>
         <th>Skills/Topics Used
+        <td>Classes, Encapsulation, Inheritance, Vectors
     <tr>
