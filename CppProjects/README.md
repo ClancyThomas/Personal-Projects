@@ -1,6 +1,8 @@
-<b>C++ Personal Projects</b>
-<b>Total Projects: 2</b>
-<br>
+<header>
+    <h1>C++ Personal Projects</h1>
+    <h2>Total Projects: 2</h2>
+</header>
+
 <header>
     <h3>Project #1</h3>
 </header>
