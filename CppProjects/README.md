@@ -1,4 +1,9 @@
 <b>C++ Personal Projects</b>
+<b>Total Projects: 2</b>
+<br>
+<header>
+    <h3>Project #1</h3>
+</header>
 <table>
     <tr>
         <th>Project Name
@@ -26,6 +31,9 @@
     <tr>
 </table>
 
+<header>
+    <h3>Project #2</h3>
+</header>
 <table>
     <tr>
         <th>Project Name
@@ -45,7 +53,7 @@
     <tr>
     <tr>
         <th>Link to Project
-        <td>
+        <td>https://github.com/ClancyThomas/Personal-Projects/blob/main/CppProjects/MoneySimulation.cpp
     <tr>
     <tr>
         <th>Project Status
