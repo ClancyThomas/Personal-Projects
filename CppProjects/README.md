@@ -25,7 +25,7 @@
     <tr>
     <tr>
         <th>Link to Project
-        <td>
+        <td>https://github.com/ClancyThomas/Personal-Projects/tree/main/CppProjects/HangmanGame
     <tr>
     <tr>
         <th>Project Status
